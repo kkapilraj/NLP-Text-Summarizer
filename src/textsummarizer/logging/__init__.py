@@ -19,4 +19,5 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("textSummarizerLogger")
+#logger = logging.getLogger("textSummarizerLogger")
+logger = logging.getLogger("textsummarizerlogger")

@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "NLP-Text_Summarizer"
 AUTHOR_USER_NAME = "Kapilraj"
-SRC_REPO = "textSummarizer"
+SRC_REPO = "textsummarizer"
 AUTHOR_EMAIL = "kapilraj.kalleda78@gmail.com"
 
 setuptools.setup(
